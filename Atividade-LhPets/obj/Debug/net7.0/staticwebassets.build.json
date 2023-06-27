@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "broseASRIPJicR6mb/br6wkINGOHsJG0peiPBYy3xo4=",
+  "Source": "Atividade-LhPets",
+  "BasePath": "_content/Atividade-LhPets",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Atividade-LhPets\\wwwroot",
+      "Source": "Atividade-LhPets",
+      "ContentRoot": "C:\\Users\\Gabriel\\Documents\\2-EstudoProgramacao\\BackEnd-Senai\\Atividade-LhPets\\wwwroot\\",
+      "BasePath": "_content/Atividade-LhPets",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Gabriel\\Documents\\2-EstudoProgramacao\\BackEnd-Senai\\Atividade-LhPets\\wwwroot\\index.html",
+      "SourceId": "Atividade-LhPets",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Gabriel\\Documents\\2-EstudoProgramacao\\BackEnd-Senai\\Atividade-LhPets\\wwwroot\\",
+      "BasePath": "_content/Atividade-LhPets",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
