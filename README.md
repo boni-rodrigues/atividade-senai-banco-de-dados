@@ -1,4 +1,4 @@
-# Atividade acadêmica Senai 
+## Atividade acadêmica Senai 
 
 <p>Nessa atividade foi realizado uma cominucação entre uma base de dados com uma lista de clientes e uma aplicação web simples.</p>
 <br>
